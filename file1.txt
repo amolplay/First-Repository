@@ -1,5 +1,9 @@
 File1 created
+<<<<<<< Updated upstream
 File1 appended
+=======
+Fil1 appended
+>>>>>>> Stashed changes
 File1 -am used
 file1 --amend testing
 
