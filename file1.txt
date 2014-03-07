@@ -1,6 +1,6 @@
 File1 created
 Fil1 appended
 File1 -am used
-file 1 -amend testing 123
+file 1 -amend testing 
 
 
