@@ -23,10 +23,15 @@ $ ~/First-Repository$ git pull origin master
 ==========
 Create a new repository on the command line
 touch README.md
+
 git init
+
 git add README.md
+
 git commit -m "first commit"
+
 git remote add origin https://github.com/amolplay/New-Repo.git
+
 git push -u origin master
 
 ==========
