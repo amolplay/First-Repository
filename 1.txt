@@ -3,3 +3,4 @@ TEST@@@@
 Feature start
 Testing for GIT FLOW
 Testing for hot fixes
+Testing for release
